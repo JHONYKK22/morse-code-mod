@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Jonathan-Guerra22/morse-code-go-mod/morse"
+	"github.com/Jonathan-Guerra22/morse-code-mod/morse"
 )
 
 func main() {
